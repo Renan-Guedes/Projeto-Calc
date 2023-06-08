@@ -1,0 +1,8 @@
+C:\Users\Renan\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+C:\Users\Renan\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+C:\Users\Renan\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+C:\Users\Renan\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.AssemblyReference.cache
+C:\Users\Renan\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renan\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+C:\Users\Renan\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
